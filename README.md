@@ -178,16 +178,6 @@ The application provides a menu-driven interface with the following options:
 
 ---
 
-## Contributing
+## 📄 License
 
-Contributions are welcome! Please fork the repository and submit pull requests for improvements or bug fixes.
-
----
-
-## License
-
-This project is provided for educational and internal use. Please contact the author for other licensing options.
-
----
-
-**For any issues or questions, please refer to the code comments or open an issue in your repository.** 
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for terms.
